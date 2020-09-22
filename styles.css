@@ -1,0 +1,19 @@
+#outer{
+    list-style-type: upper-roman;
+}
+
+.middle{
+    list-style-type: upper-alpha;
+}
+
+#compact{
+    background-color: pink;
+}
+
+#midsize{
+    background-color: blue;
+}
+
+#sport{
+    background-color: red;
+}
